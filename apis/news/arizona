@@ -1,10 +1,20 @@
 [
     {
+        "id": 35,
+        "title": "Double Gang",
+        "text": "🏆 Новый Батл Пасс, аксы с заточк",
+        "imageUrl": "https://download.arzfun.com/arzfunio/uploads/7c15bc63dfd37096f3c5875a4f05c0f64b3019631bb0d4a084bccb2a6aa024b1.jpg",
+        "date": "23 августа 2026",
+        "description": "01 января 1970",
+        "url": "https://download.arzfun.com/news/35"
+    },
+    {
         "id": 34,
         "title": "Обновление сайта",
         "text": "🎉 Сайт arzfun.com обновлён!Мы ра",
         "imageUrl": "https://download.arzfun.com/arzfunio/uploads/44fe09d31d915f9563f75fbab0ede4efc5d6d569e66eaeea80e83b3ad5547673.png",
         "date": "05 августа 2026",
+        "description": "01 января 1970",
         "url": "https://download.arzfun.com/news/34"
     },
     {
@@ -13,6 +23,7 @@
         "text": "Обновление на сервере!❤️ Обновле",
         "imageUrl": "https://download.arzfun.com/arzfunio/uploads/c296a5e2afebde28ac14949cbc8e6e4c51875336a97b86871facb71bc16eaf61.jpg",
         "date": "06 июня 2026",
+        "description": "01 января 1970",
         "url": "https://download.arzfun.com/news/32"
     },
     {
@@ -21,6 +32,7 @@
         "text": "🎉 НАМ 4 ГОДА!!! 🎉❤️ Поздравляем ",
         "imageUrl": "https://download.arzfun.com/arzfunio/uploads/fb2920b1fcfa18a05c9a1000f1fd88467c6499e75e354cbecc4bd32a45a2238a.jpg",
         "date": "01 июня 2026",
+        "description": "01 января 1970",
         "url": "https://download.arzfun.com/news/31"
     },
     {
@@ -29,6 +41,7 @@
         "text": "🥰 Добрый вечер, уважаемые игроки",
         "imageUrl": "https://download.arzfun.com/arzfunio/uploads/6156f69d700c25d6559388f22b3b46e2da3785a5f7c3e13a83c8dd5295814de5.jpg",
         "date": "10 мая 2026",
+        "description": "01 января 1970",
         "url": "https://download.arzfun.com/news/30"
     },
     {
@@ -37,6 +50,7 @@
         "text": "🥳 Приветствуем вас, друзья!Спеши",
         "imageUrl": "https://download.arzfun.com/arzfunio/uploads/02b923ead259175fac7f00c246da567d789b295b1b2d8423171238633ba12880.jpg",
         "date": "21 февраля 2026",
+        "description": "01 января 1970",
         "url": "https://download.arzfun.com/news/29"
     },
     {
@@ -45,6 +59,7 @@
         "text": "⛵ Новый зимний сезон BattlePass ",
         "imageUrl": "https://download.arzfun.com/arzfunio/uploads/0b4afeb2fb9456bb8b0ae292b54da3b9a369f70309ad7d378f7ff4f2d6965fd4.jpg",
         "date": "31 января 2026",
+        "description": "01 января 1970",
         "url": "https://download.arzfun.com/news/28"
     },
     {
@@ -53,6 +68,7 @@
         "text": "😍 Представляем вашему вниманию —",
         "imageUrl": "https://download.arzfun.com/arzfunio/uploads/b5b0893ad623efcf04b30a25f880bd8dc1f31c3d58a7b1231fa3aee8c792f7ae.jpg",
         "date": "17 января 2026",
+        "description": "01 января 1970",
         "url": "https://download.arzfun.com/news/27"
     },
     {
@@ -61,6 +77,7 @@
         "text": "🎅 Акция \"Письма Санта Клаусу\" за",
         "imageUrl": "https://download.arzfun.com/arzfunio/uploads/723369ec2028e6900519c3f41d0ac56fafc88e71b1c7188eca010c5f9a164611.jpg",
         "date": "10 января 2026",
+        "description": "01 января 1970",
         "url": "https://download.arzfun.com/news/26"
     },
     {
@@ -69,6 +86,7 @@
         "text": "☃️ Мы отдохнули, и готовы вернут",
         "imageUrl": "https://download.arzfun.com/arzfunio/uploads/6d4bf07a920ba1cc3e8f28649d3569b7b2329ce76bae44100b44039013888f5b.jpg",
         "date": "09 января 2026",
+        "description": "01 января 1970",
         "url": "https://download.arzfun.com/news/25"
     },
     {
@@ -77,6 +95,7 @@
         "text": "❤️ Поздравление от команды Arizo",
         "imageUrl": "https://download.arzfun.com/arzfunio/uploads/8fa3a6ceb1db69a2cf466678da5f057893238b60c210345a8b5db9e72a11a440.jpg",
         "date": "31 декабря 2025",
+        "description": "01 января 1970",
         "url": "https://download.arzfun.com/news/24"
     },
     {
@@ -85,6 +104,7 @@
         "text": "🎄 Новогодний промокод!Как и обещ",
         "imageUrl": "https://download.arzfun.com/arzfunio/uploads/6f06ba23d559263d3961e3aafa924150eb5cc18e423fe49e7c967e1fafd40c45.jpg",
         "date": "31 декабря 2025",
+        "description": "01 января 1970",
         "url": "https://download.arzfun.com/news/23"
     },
     {
@@ -93,6 +113,7 @@
         "text": "☃️ Новогодний промо-код с задани",
         "imageUrl": "https://download.arzfun.com/arzfunio/uploads/c9900c232d794c61f148fbc97426518d4050ec6cb143a0917f78b0481c3ea3ea.jpg",
         "date": "30 декабря 2025",
+        "description": "01 января 1970",
         "url": "https://download.arzfun.com/news/22"
     },
     {
@@ -101,6 +122,7 @@
         "text": "🎄 Последний пост года!Сегодня пя",
         "imageUrl": "https://download.arzfun.com/arzfunio/uploads/7f648f21db4cad6b76e4766a51e5c5718c25bd1d62f836db393683bab1e468e9.jpg",
         "date": "26 декабря 2025",
+        "description": "01 января 1970",
         "url": "https://download.arzfun.com/news/21"
     },
     {
@@ -109,6 +131,7 @@
         "text": "🎅 Впервые на Arizona FUN — Санта",
         "imageUrl": "https://download.arzfun.com/arzfunio/uploads/0fe68e87b10c4283a136698cb9bdfb170ed4da25d869f963c2b6015b451ae5c7.jpg",
         "date": "19 декабря 2025",
+        "description": "01 января 1970",
         "url": "https://download.arzfun.com/news/20"
     },
     {
@@ -117,6 +140,7 @@
         "text": "Обновления на ARZFUN😊 Обновления",
         "imageUrl": "https://download.arzfun.com/arzfunio/uploads/0b0b3d1ca3cf007927d1f8b28ca16f2367d65b7e11fecbcd701905ae8c5ea8af.jpg",
         "date": "12 декабря 2025",
+        "description": "01 января 1970",
         "url": "https://download.arzfun.com/news/19"
     },
     {
@@ -125,6 +149,7 @@
         "text": "🖤 Чёрная пятница от Arizona FUN!",
         "imageUrl": "https://download.arzfun.com/arzfunio/uploads/a8862cdaab9d7e5784bec503f2bf32e97b1f88288cc1cb81d66afc9d1a6a6a89.jpg",
         "date": "28 ноября 2025",
+        "description": "01 января 1970",
         "url": "https://download.arzfun.com/news/18"
     },
     {
@@ -133,6 +158,7 @@
         "text": "🎁 Массовая разблокировка IP-адре",
         "imageUrl": "https://download.arzfun.com/arzfunio/uploads/cb5785094ae72ee6d1a0b76f798a7f6eea856c44f92dfa8f092539489af83ac1.jpg",
         "date": "22 октября 2025",
+        "description": "01 января 1970",
         "url": "https://download.arzfun.com/news/17"
     },
     {
@@ -141,6 +167,7 @@
         "text": "☠️🐾 Сезонный Battle Pass на Ariz",
         "imageUrl": "https://download.arzfun.com/arzfunio/uploads/3fc61007d324d500a99ec3f4fe5127bdcb27959a1cb3e66d074538ad88474767.jpg",
         "date": "29 июля 2025",
+        "description": "01 января 1970",
         "url": "https://download.arzfun.com/news/16"
     },
     {
@@ -149,6 +176,7 @@
         "text": "🔤 3 года! Три года назад зажглас",
         "imageUrl": "https://download.arzfun.com/arzfunio/uploads/0ea890f56e67f3feee57c4186a91726603b1de9a73487744d7ff3d60265439d0.jpg",
         "date": "01 июня 2025",
+        "description": "01 января 1970",
         "url": "https://download.arzfun.com/news/15"
     },
     {
@@ -157,6 +185,7 @@
         "text": "🎉 Arizona Fun — SAMP 2.0: Arizon",
         "imageUrl": "https://download.arzfun.com/arzfunio/uploads/ee3005385bb63375cfd36aa5c638786084bf748a31d73180f02ab994195f8083.jpg",
         "date": "30 апреля 2025",
+        "description": "01 января 1970",
         "url": "https://download.arzfun.com/news/14"
     },
     {
@@ -165,6 +194,7 @@
         "text": "🎁 Обновление ночного рестарта се",
         "imageUrl": "https://download.arzfun.com/arzfunio/uploads/818e42f0ad34fd84bab177d2457d2397856b99fe73bd9a4797d13d7c469614de.jpg",
         "date": "23 апреля 2025",
+        "description": "01 января 1970",
         "url": "https://download.arzfun.com/news/13"
     },
     {
@@ -173,6 +203,7 @@
         "text": "⛵ Новый Mobile лаунчер (v15.9.9)",
         "imageUrl": "https://download.arzfun.com/arzfunio/uploads/20a9dabcdc761f97eb39cb429633a8dcefb16ec18cf11edc5274e7b4dc6adb0c.jpg",
         "date": "07 апреля 2025",
+        "description": "01 января 1970",
         "url": "https://download.arzfun.com/news/12"
     },
     {
@@ -181,6 +212,7 @@
         "text": "😍В новом обновлении в админ-зоне",
         "imageUrl": "https://download.arzfun.com/arzfunio/uploads/7b6974896386bf4fb52ca4d1c7201e5ad810f0985401a17acf7509eb410e7b39.jpg",
         "date": "04 апреля 2025",
+        "description": "01 января 1970",
         "url": "https://download.arzfun.com/news/11"
     },
     {
@@ -189,6 +221,7 @@
         "text": "Вы уже смотрели нашу новую обнов",
         "imageUrl": "https://download.arzfun.com/arzfunio/uploads/dcba4eaf8992e983fdaa56e16331089985f7636d2b91969af3db73d1800dada4.jpg",
         "date": "01 апреля 2025",
+        "description": "01 января 1970",
         "url": "https://download.arzfun.com/news/10"
     },
     {
@@ -197,6 +230,7 @@
         "text": "Весенняя обноваЗдравствуйте, ува",
         "imageUrl": "https://download.arzfun.com/arzfunio/uploads/f2e80959368f21051b408ebe516fda88b80d03d414dadc41fdca64d1b04afca7.jpg",
         "date": "07 марта 2023",
+        "description": "01 января 1970",
         "url": "https://download.arzfun.com/news/8"
     },
     {
@@ -205,6 +239,7 @@
         "text": "на Arizona FUN!",
         "imageUrl": "https://download.arzfun.com/arzfunio/uploads/5540bba6422b8f5d67241e5f9273eac0567ab8e4ff29402ba7b4f0b4656280ae.jpg",
         "date": "11 февраля 2023",
+        "description": "01 января 1970",
         "url": "https://download.arzfun.com/news/7"
     },
     {
@@ -213,6 +248,7 @@
         "text": "Официально! Мы в Play Market!Ска",
         "imageUrl": "https://download.arzfun.com/arzfunio/uploads/b8523bd05b088ba75b0f5b50e480ab915ab1bf910bcaf73e4f30907fdcbbeace.jpg",
         "date": "06 февраля 2023",
+        "description": "01 января 1970",
         "url": "https://download.arzfun.com/news/6"
     },
     {
@@ -221,6 +257,7 @@
         "text": "Промокоды и скидкиЗдесь будем по",
         "imageUrl": "https://download.arzfun.com/arzfunio/uploads/1221b0b15a95fcad665428cb87a007c079da572ba2aaccfada8ab13e5f87b832.png",
         "date": "31 декабря 2022",
+        "description": "01 января 1970",
         "url": "https://download.arzfun.com/news/2"
     },
     {
@@ -229,6 +266,7 @@
         "text": "Вводи newlaunch в /mm - 11 и пол",
         "imageUrl": "https://download.arzfun.com/arzfunio/uploads/248c2c395f1d2c7d38b1ef06227bea4ab01e7bcdec8a8280da94df26efff9adb.png",
         "date": "31 декабря 2022",
+        "description": "01 января 1970",
         "url": "https://download.arzfun.com/news/3"
     },
     {
@@ -237,6 +275,7 @@
         "text": "Обновление мода — Что новогоВсе ",
         "imageUrl": "https://download.arzfun.com/arzfunio/uploads/b4c91178cee3b9c040af13feb182a567360f0fbe0b8c9b97f50a2140d47590fc.png",
         "date": "31 декабря 2022",
+        "description": "01 января 1970",
         "url": "https://download.arzfun.com/news/4"
     },
     {
@@ -245,6 +284,7 @@
         "text": "Обновление лаунчера Arizona Mobi",
         "imageUrl": "https://download.arzfun.com/arzfunio/uploads/9fb2781094b7537f5fa17aee904a479b35cb7875464fa8defb3a5a7f7405aa66.jpg",
         "date": "31 декабря 2022",
+        "description": "01 января 1970",
         "url": "https://download.arzfun.com/news/5"
     },
     {
@@ -253,6 +293,7 @@
         "text": "Замечательная и Очень Приятная Н",
         "imageUrl": "https://arzfun.hhos.net/assets/logo.png",
         "date": "31 декабря 2022",
+        "description": "01 января 1970",
         "url": "https://download.arzfun.com/news/1"
     }
 ]
